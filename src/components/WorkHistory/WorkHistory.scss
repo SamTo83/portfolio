@@ -1,0 +1,75 @@
+@use "../../assets/sass/variables" as *;
+
+@media (min-width: 375px){
+  .career__title{
+    background-color: $color-grey-light;
+    color: $color-black;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+  }
+  .career{
+    display: grid;
+    background-color: $color-grey-light;
+    gap: 1rem;
+    padding: 1rem;
+    .employer{
+      height: 100%;
+      width: 100%;
+      display: grid;
+      gap: 1rem;
+      background-color: $color-grey-light;
+      
+    }
+    .employer__header{
+      display: grid;
+      background-color: $color-grey-light;
+      align-items: center;
+      grid-template-columns: 50px auto;
+  
+    }
+    .company__title{
+      background-color: $color-grey-light;
+      margin-left: 10px;
+    }
+    h4, span{
+      background-color: $color-grey-light;
+      margin-left: 10px;
+      font-size: 1rem;
+    }
+    .employer__paragraph{
+      background-color: $color-grey-light;
+      color: $color-black;
+    }
+    .Company__logo{
+      width: 60px;
+      height: 60px;
+      border: 1px solid $color-black;
+      border-radius: 10px;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .career__title{
+    padding: 3rem; 
+    font-size: 2rem;
+  }
+  .career{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    padding: 1rem;
+    .employer{
+      height: 100%;
+      display: grid;
+      gap: 1rem;
+      font-size: 1.5rem;
+    }
+    .employer__paragraph{
+      height: 100%;
+      font-size: 1.2rem;
+      background-color: $color-grey-light;
+    }
+  }
+}

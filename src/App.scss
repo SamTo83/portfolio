@@ -1,0 +1,13 @@
+@use "./assets/sass/variables" as *;
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: $color-primary;
+  scroll-behavior: smooth;
+  div {
+    display: block;
+  }
+
+}

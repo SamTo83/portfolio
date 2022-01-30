@@ -1,0 +1,47 @@
+@use "../../assets/sass/variables" as *;
+
+@media (min-width: 375px){
+  .description{
+    display: grid;
+    position: sticky;
+    grid-template-rows: auto auto;
+    align-items: center;
+    justify-content: center;
+    background-color: $color-grey-light;
+    gap: 2rem;
+    padding: 1rem;
+    p{
+      background-color: $color-grey-light;
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: $color-black;
+    }
+    .description__profile{
+      border-radius: 250px;
+      width: 15rem;
+      margin-left: 3rem;
+    }
+    span{
+      background-color: $color-grey-light;
+      font-weight: bold;
+      color: $highlight;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .description{
+  display: grid;
+  position: sticky;
+  grid-template-columns: auto auto;
+  gap: 2rem;
+  padding: 2rem;
+  margin: 0rem 5rem;
+  border-radius: 20px;
+  &__paragraph{
+    font-size: 4rem;
+    font-weight: 600;
+    color: $color-black;
+  }
+}
+}
