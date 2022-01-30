@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b6e71479.css",
+    "main.js": "/portfolio/static/js/main.1057267a.js",
+    "static/js/787.b9ec5bb0.chunk.js": "/portfolio/static/js/787.b9ec5bb0.chunk.js",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.5c2c558bfb0a72a1b0af.pdf",
+    "static/media/clean-coding.PNG": "/portfolio/static/media/clean-coding.a9c8a6cb4c4bbf568679.PNG",
+    "static/media/version.PNG": "/portfolio/static/media/version.c95d13b7c13ee5c70bc1.PNG",
+    "static/media/agile-development.PNG": "/portfolio/static/media/agile-development.24150cee56b3438e6705.PNG",
+    "static/media/BJ-1.PNG": "/portfolio/static/media/BJ-1.58992901da3226f7d128.PNG",
+    "static/media/debugging.PNG": "/portfolio/static/media/debugging.735c601bb88860be87a9.PNG",
+    "static/media/responsive-design.PNG": "/portfolio/static/media/responsive-design.550d22684bace4c783d0.PNG",
+    "static/media/web-design.PNG": "/portfolio/static/media/web-design.ffb248218b4261a940dc.PNG",
+    "static/media/MC1.PNG": "/portfolio/static/media/MC1.f5b44233914421dcc22d.PNG",
+    "static/media/C1.PNG": "/portfolio/static/media/C1.49fae7f5056821d347f2.PNG",
+    "static/media/BrewDog.PNG": "/portfolio/static/media/BrewDog.4ef1e088a56176934fa6.PNG",
+    "static/media/ULaw.PNG": "/portfolio/static/media/ULaw.95f84ee809db10748cba.PNG",
+    "static/media/logo1.JPG": "/portfolio/static/media/logo1.452ffb7f30e35ca4c5e7.JPG",
+    "static/media/ProfilePic.JPG": "/portfolio/static/media/ProfilePic.28b565bcd409a9d98086.JPG",
+    "static/media/ticket-tracker.PNG": "/portfolio/static/media/ticket-tracker.edce7e7b3dd4259c2fee.PNG",
+    "static/media/Interbrand.PNG": "/portfolio/static/media/Interbrand.24761b66be02e02ea21c.PNG",
+    "static/media/nology.PNG": "/portfolio/static/media/nology.41c14e6ae838181c23c9.PNG",
+    "static/media/OliverWyman.PNG": "/portfolio/static/media/OliverWyman.814d879f6167a2844d66.PNG",
+    "index.html": "/portfolio/index.html",
+    "main.b6e71479.css.map": "/portfolio/static/css/main.b6e71479.css.map",
+    "main.1057267a.js.map": "/portfolio/static/js/main.1057267a.js.map",
+    "787.b9ec5bb0.chunk.js.map": "/portfolio/static/js/787.b9ec5bb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e71479.css",
+    "static/js/main.1057267a.js"
+  ]
+}
